@@ -1,2 +1,2 @@
 # Object-Classification
-My project involves object classification using Google's Teachable Machine. By leveraging this platform, I created and trained a model with ease, significantly reducing the traditionally long training times. The model is capable of accurately classifying objects, making the process efficient and time-saving.
+In my project, I utilized Google's Teachable Machine to create and train an object classification model. This approach significantly simplifies the model creation process and reduces training times, making it faster and more efficient. Experience the ease and time-saving benefits of object classification using Teachable Machine for accurate and quick results.
